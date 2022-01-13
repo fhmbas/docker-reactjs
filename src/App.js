@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
        	<p>
-	  Hello There, node_modules Folder Has Been Deleted.
+	  Hello There, container has been rebuild.
 	<br />Problem with node_modules permission, solved by change folder owner.
 	</p>
 	<p>
